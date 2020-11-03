@@ -1,9 +1,10 @@
 body {
   margin: 0;
   font-family: "Lato", sans-serif;
+  width: 100%;
 }
 .top {
-  background: url(/img/hero-bg.jpg.png) no-repeat;
+  background: url(img/hero-bg.jpg.png) no-repeat;
   background-size: cover;
   width: auto;
   padding: 100px 600px 100px 600px;
